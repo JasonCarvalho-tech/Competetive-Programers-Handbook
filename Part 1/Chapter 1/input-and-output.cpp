@@ -36,4 +36,14 @@ int main() {
 	//while (cin >> x) {
 		//cout << x << "\n";
 	//}
+
+	//when you're working with files you can do this to make cin, cout and other strandard streams to read and write the files instead
+	//you need to create the files input.txt and output.txt if already not there
+	freopen("input.txt", "r", stdin);
+	freopen("output.txt", "w", stdout);
+
+	//this will read the words in input.txt and write them each on a new line in output.txt
+	while (cin >> x) {
+		cout << x << "\n";
+	}
 }
