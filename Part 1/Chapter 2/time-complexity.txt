@@ -1,3 +1,9 @@
 The book is self explanitory in this chapter, no real excercises or experiments to be done execpt the last one.
 Helpful links: 	https://cs50.harvard.edu/ap/2020/assets/pdfs/computational_complexity.pdf
 				https://www.youtube.com/watch?v=YoZPTyGL2IQ
+
+The 3 other files in this directory all relate tho this question.
+there is an array, for example
+      | -1 | 2 | 4 | -3 | 5 | 2 | -5 | 2 |
+calculate the maximum subarray sum.
+Each algorithm makes the process more efficient.
