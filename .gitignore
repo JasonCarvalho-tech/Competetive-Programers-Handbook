@@ -1,2 +1,5 @@
 # .cph extension
 .cph/
+
+# vscode files
+.vscode/
