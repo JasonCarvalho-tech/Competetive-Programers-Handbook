@@ -1,5 +1,5 @@
 // URL: https://www.spoj.com/problems/PRIME1/
-// TODO: revisit, find out why vector sulution ins't fast enough
+// TODO: revisit, find out why vector solution ins't fast enough
 # include <bits/stdc++.h>
 # include <math.h>
 
