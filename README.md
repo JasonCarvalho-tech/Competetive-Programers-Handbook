@@ -1,6 +1,7 @@
 # Competetive Programming
 
-**This is not intended to be a collabarative project I'm just putting my code here, of course issues/PRs ect are welcome if you have something to add**
+**This is not intended to be a collabarative project I'm just putting my code
+here, of course issues/PRs ect are welcome if you have something to add**
 
 Trying to learn to be a better programmer through CP.
 Though you don't exactly need CP to be a good software engineer, it might help
